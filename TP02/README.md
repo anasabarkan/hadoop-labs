@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/ayman-gassi/hadoop-labs/TP02.git
+git clone https://github.com/anasabarkan/hadoop-labs.git
 cd hadoop-labs/TP02
 ```
 
